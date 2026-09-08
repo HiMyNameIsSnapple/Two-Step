@@ -23,3 +23,11 @@ Added the second set of X motors, modeled a simple little belt coupler for the f
 <img width="2469" height="1622" alt="image" src="https://github.com/user-attachments/assets/fcb87284-3f3a-465b-9788-d00b57a37ba2" />
 
 **Total time spent: 2.15 hours**
+
+# September 7: Toolhead components done, fan duct on the way!
+
+Locked in place all of the toolhead components I was going to use with mate connectors, including the fans and also put in all the hardware (that I know of.. hopefully..( for the toolhead. Got a bit distracted to go on aliexpress to find cheaper parts but found out that the first time buyer discount actually applies to the entire cart! So the BOM will have to be modified to reflect that, which I already did make a few changes to when finding linear rails and blower fans. Speaking of linear rails and blower fans, I realized I was using some random linear carriage that didn't have holes spaced 2 cm apart for some reason..? So I changed those, and got a bit frustrated with finding a 5015 blower fan model that actually reflects the blower fans I was buying (before the aliexpress thing btw), so I modeled one myself off a drawing from the amazon listing of the blower fans I was going to use, meaning those are locked in unless I somehow find the same supplier from aliexpress. After that, made the first version of the fan ducts and struggled with making a cavity from the assembly geometry to import into SimFlow, meaning that is a problem for tomorrow. Attempt at trying to turn it into an STL in a part studio attached, and Lapse here -> https://lapse.hackclub.com/timelapse/8UU7B377sARJ
+
+<img width="2934" height="1827" alt="image" src="https://github.com/user-attachments/assets/9e9c4bb3-ce8a-4e40-ae38-ab998e8cf4e1" />
+
+**Total time spent: 4.55 hours**
