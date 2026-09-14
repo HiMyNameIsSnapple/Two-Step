@@ -37,4 +37,4 @@ Made a new branch and messed around with a center of mass optimized toolhead con
 
 <img width="3449" height="2003" alt="image" src="https://github.com/user-attachments/assets/29044b2d-b2db-4d3d-b947-10650b65bbb0" />
 
-**Total time spent: 0 hours**
+**Total time spent: 1.38 hours**
