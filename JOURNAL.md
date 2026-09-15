@@ -38,3 +38,11 @@ Made a new branch and messed around with a center of mass optimized toolhead con
 <img width="3449" height="2003" alt="image" src="https://github.com/user-attachments/assets/29044b2d-b2db-4d3d-b947-10650b65bbb0" />
 
 **Total time spent: 1.38 hours**
+
+# September 14: Fan duct progress?
+
+Continued modeling the fan duct, now having a basic idea for a V1 that I'll take into CFD. Started with modelling some surfaces, but ditched that for just a 3D part representing the terminating point of the duct and trying to make lofts to represent the negative space. Struggled a bunch with a corner trying to get it rounded, might just take it into CFD that way and just see what happens at that point. 
+
+<img width="2829" height="1828" alt="image" src="https://github.com/user-attachments/assets/0de3549d-7262-44f0-b627-a613ed79af11" />
+
+**Total time spent: 1.83 hours**
