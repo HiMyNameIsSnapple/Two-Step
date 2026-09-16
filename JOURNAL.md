@@ -46,3 +46,12 @@ Continued modeling the fan duct, now having a basic idea for a V1 that I'll take
 <img width="2829" height="1828" alt="image" src="https://github.com/user-attachments/assets/0de3549d-7262-44f0-b627-a613ed79af11" />
 
 **Total time spent: 1.83 hours**
+
+# September 15: Fan duct, version 1
+
+Tried and failed with multiple different ways of doing the fan geometry using lofts and guides, but all produced substandard geometry so I instead opted to just make it manually with a bunch of sketches, which was a bit painful cleaning up, but eventually got a fan duct after converting the part into a surface by deleting some faces, then exporting my main X axis CAD so I can make a cavity for simflow, was VERY slow because of how big the assembly is. Probably a better way to do it is just importing part of the toolhead. The agenda for tomorrow is to figure out simflow and to see if this duct even points air in the right direction. 
+
+<img width="3125" height="2077" alt="image" src="https://github.com/user-attachments/assets/ed93609e-3da1-460d-9f3b-d2adcaf44ddd" />
+
+**Total time spent: 2.11 hours**
+
