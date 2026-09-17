@@ -55,3 +55,11 @@ Tried and failed with multiple different ways of doing the fan geometry using lo
 
 **Total time spent: 2.11 hours**
 
+# September 16: Simflow 
+
+Got to the meshing part of Simflow after a lot of struggle, but couldn't find my faces so I left it at that. While the geometry was meshing took some time to start makgin an alternative fan duct with the fan at a steeper angle and longer prongs, as well as modifying the old since the V1 is most definitely not parametric where I can change the angle of the fan outlet. May find a different CFD software or do some more research. 
+
+<img width="3400" height="2114" alt="image" src="https://github.com/user-attachments/assets/7f773c98-a9d7-4eec-b4b2-9a300f81c5e6" />
+
+**Total time spent: 1.63 hours**
+
