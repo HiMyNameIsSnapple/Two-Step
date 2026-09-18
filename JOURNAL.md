@@ -63,3 +63,12 @@ Got to the meshing part of Simflow after a lot of struggle, but couldn't find my
 
 **Total time spent: 1.63 hours**
 
+# September 17: Simflow wronged me, Simscale is my friend now. 
+
+Had too much trouble with Simflow so I instead went to Simscale, much simpler since I remember learning how to use it a few months ago. While the simulation was loading I researched some alternative steppers with some rather absurd shafts that I'll just have to work around since they come in packs of 4 meaning a belted Z and a new belt to design and update the assembly on to figure out how I can double shear, as well as some PSUs and shipping prices for the BOM. After the simulation was done I found that the air hits the nozzle instead of the part under and it doesn't curve in the way I want to for that all-around cooling, so will have to make a new fan duct around that is steeper in angle and while I'm at it, will probably be useful to model the actual part under tooo before the next simulation. 
+
+<img width="2182" height="1736" alt="image" src="https://github.com/user-attachments/assets/9dcda699-82d7-4ee7-b6e6-9e48db92e90b" />
+
+**Total time spent: 1.75 hours**
+
+
