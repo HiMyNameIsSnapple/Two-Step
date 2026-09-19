@@ -71,4 +71,11 @@ Had too much trouble with Simflow so I instead went to Simscale, much simpler si
 
 **Total time spent: 1.75 hours**
 
+# September 18: New fan duct
+
+Changed the location of the hotend fan as well as the part cooling fan to attempt to make a fan that has 360 degree cooling, likely will not work in CFD but worth a shot if it gives us insight as to how to curve the air around the hotend. 
+
+<img width="3440" height="1970" alt="image" src="https://github.com/user-attachments/assets/b36440a9-6ae2-469f-b7e9-11b2548a4ab4" />
+
+**Total time spent: 0.5 hours**
 
