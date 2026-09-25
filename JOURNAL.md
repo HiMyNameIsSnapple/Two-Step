@@ -79,3 +79,11 @@ Changed the location of the hotend fan as well as the part cooling fan to attemp
 
 **Total time spent: 0.5 hours**
 
+# September 24: New fan duct 2
+
+Second fan duct is mostly done, but cavity making isn't because of some bad geometry preventing me from using a boolean operation. Fan ducts look similar, but this one has much worse modeling practices but vastly different curves and geometry. Process was largely the same as the first, so not much to say until I fix the geometry and get to simscale again. 
+
+<img width="3113" height="1905" alt="image" src="https://github.com/user-attachments/assets/7919a528-49a2-4b3d-8e51-bcdcda2c1222" />
+
+**Total time spent: 1.75 hours**
+
