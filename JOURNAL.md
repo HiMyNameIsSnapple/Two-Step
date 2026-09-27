@@ -95,3 +95,10 @@ Finished second duct and put it through CFD, which gave an unsatisfactory result
 
 **Total time spent: 3 hours**
 
+# September 26: Toolhead V3?
+
+The long shafts gave me a lot of trouble on belt placement so I decided to go back to the COM optimized toolhead idea with belts in completely different places, and spent the rest of the time after simulating and analyzing the third duct (which also gave suboptimal results but better) pretty much re-arranging everything and trying to abstract where the belts and part cooling fan would go. 
+
+<img width="3454" height="2052" alt="image" src="https://github.com/user-attachments/assets/f7cf55be-ff14-4b41-8b3e-6971129c293c" />
+
+*Total time spent: 2.3 hours**
