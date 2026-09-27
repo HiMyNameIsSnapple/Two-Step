@@ -101,4 +101,4 @@ The long shafts gave me a lot of trouble on belt placement so I decided to go ba
 
 <img width="3454" height="2052" alt="image" src="https://github.com/user-attachments/assets/f7cf55be-ff14-4b41-8b3e-6971129c293c" />
 
-*Total time spent: 2.3 hours**
+**Total time spent: 2.3 hours**
