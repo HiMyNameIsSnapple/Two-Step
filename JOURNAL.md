@@ -87,3 +87,10 @@ Second fan duct is mostly done, but cavity making isn't because of some bad geom
 
 **Total time spent: 1.75 hours**
 
+# September 26:
+
+Finished second duct and put it through CFD, which gave an unsatisfactory result so I opted for a completely new fan duct design instead that splits the airflow into two parts and has two simple terminating faces rather than one long complex one, hopefully giving more predictable results. Fixed a lot of geometry issues with it too but unfortunately something else is wrong again in Simscale, meaning I'll either import it as an STL or somehow fix the geometry. Also modeled the new steppers I'll be using and a new belt for an update gantry, which will probably be a bit more complicated than a first thought because of these long shafts, especially now I'm considering double shear. 
+
+<img width="3454" height="2157" alt="image" src="https://github.com/user-attachments/assets/6b31ce95-8b9b-4b04-829a-7210bf7fea61" />
+
+**Total time spent: 3 hours**
