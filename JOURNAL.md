@@ -102,3 +102,13 @@ The long shafts gave me a lot of trouble on belt placement so I decided to go ba
 <img width="3454" height="2052" alt="image" src="https://github.com/user-attachments/assets/f7cf55be-ff14-4b41-8b3e-6971129c293c" />
 
 **Total time spent: 2.3 hours**
+
+# September 27: Fan duct V4 
+
+Spent this time making the v4 of the fan duct and locking into place all toolhead components. New fan duct is the same as v3, just now going down longer and with faces 180 degrees of each other. Also spent a lot of time troubleshooting geometry errors for CFD, which unfortunately gave me a fan duct that shoots the air out too shallow, so some time was also spent making new sketches to hopefully move the air where I want it, right under the nozzle. 
+
+<img width="3454" height="2040" alt="image" src="https://github.com/user-attachments/assets/13f2ef10-41e4-48c5-b788-0d02ae43028a" />
+
+**Total time spent: 3.36 hours**
+
+
