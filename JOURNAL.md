@@ -121,3 +121,11 @@ Finished the V4 fan duct sim and it gave not perfect, but acceptable results, an
 <img width="2976" height="1884" alt="image" src="https://github.com/user-attachments/assets/c308035e-62d1-47eb-85d4-71e8757a0bdb" />
 
 **Total time spent: 2.6 hours**
+
+# October 4:
+
+Not much to say but I finished belt hold one and the fan duct part, and now am moving onto the core toolhead part. Struggled a bit at the beginning figuring out how I would place everything. Very likely that second toolhead needs similar, but separate CAD because of the differences in belt holds. 
+
+<img width="3454" height="1975" alt="image" src="https://github.com/user-attachments/assets/34c9f81a-328f-49c1-bc8b-0316148c4e4b" />
+
+**Total time spent: 3 hours**
