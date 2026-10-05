@@ -111,7 +111,7 @@ Spent this time making the v4 of the fan duct and locking into place all toolhea
 
 **Total time spent: 3.36 hours**
 
-# September 27: 
+# September 27: Fanduct V4 2
 
 Finished the V4 fan duct sim and it gave not perfect, but acceptable results, and I really do have to move on. Now, I started cadding the actual toolhead printed parts, from putting all of the bolts to making a sketch of one of the belt holders, and then working on mounting the fan duct to the probe and adding some stuff so that it can touch the main piece in the center. My plan going forward will be a 4 piece construction, one fan duct holding the probe connected to main piece in the center, the lower out belt hold and the thing holding the CAN board. 
 
@@ -122,10 +122,12 @@ Finished the V4 fan duct sim and it gave not perfect, but acceptable results, an
 
 **Total time spent: 2.6 hours**
 
-# October 4:
+# October 4: Toolhead CAD
 
 Not much to say but I finished belt hold one and the fan duct part, and now am moving onto the core toolhead part. Struggled a bit at the beginning figuring out how I would place everything. Very likely that second toolhead needs similar, but separate CAD because of the differences in belt holds. 
 
 <img width="3454" height="1975" alt="image" src="https://github.com/user-attachments/assets/34c9f81a-328f-49c1-bc8b-0316148c4e4b" />
 
 **Total time spent: 3 hours**
+
+
