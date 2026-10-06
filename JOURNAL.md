@@ -130,4 +130,13 @@ Not much to say but I finished belt hold one and the fan duct part, and now am m
 
 **Total time spent: 3 hours**
 
+# October 5: first toolhead done!
+
+All modeling today. Tolerances and the such were kinda estimated, may go back to add teardrop holes and retolerance, etc, later. Worried about my 5015 fan cad model, since i made it for a different fan but other models were not accurate. Hopefully moving the holes for that is easy once I get hardware. For the second, there will obviously be a bunch of commonalities, but the core and belt hold pieces will be different so I stopped at a good place. 
+
+<img width="2756" height="1891" alt="image" src="https://github.com/user-attachments/assets/5ddc5d64-5dba-47d4-bc5a-e52a878cd2ae" />
+
+**Total time spent: 3.3 hours**
+
+
 
