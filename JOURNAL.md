@@ -138,5 +138,12 @@ All modeling today. Tolerances and the such were kinda estimated, may go back to
 
 **Total time spent: 3.3 hours**
 
+# October 8: So I lied. 
+
+Super short today so I only got so far in modelling. Decided that instead of motor mounts being moving I just want the belt tensioners on the toolhead to allow for double shear, so started by redoing the first belt hold and moving the fan to accommodate that.
+
+<img width="3027" height="1830" alt="image" src="https://github.com/user-attachments/assets/1b9653e7-28df-4a97-98c4-27e24db2a747" />
+
+**Total time spent: 1.15 hours**
 
 
