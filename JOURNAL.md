@@ -146,4 +146,10 @@ Super short today so I only got so far in modelling. Decided that instead of mot
 
 **Total time spent: 1.15 hours**
 
+# October 11: belt hold 1 done
 
+Modeled the belt holders for the first toolhead and began work on attaching the hotend fan that I moved. Broke the cad once so I reverted to fix it and made the belt tensioners moving so test assembly clearances. May or may not have to change these, might have to make a public version of the cad once I'm done with the toolheads or the x axis for review, lots of unknowns. Onshape also froze a LOT on me today. 
+
+<img width="3419" height="1944" alt="image" src="https://github.com/user-attachments/assets/f16db1b3-67ad-4a0c-8351-05bffd1c259f" />
+
+**Total time spent: 2.1 hours**
