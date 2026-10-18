@@ -153,3 +153,12 @@ Modeled the belt holders for the first toolhead and began work on attaching the 
 <img width="3419" height="1944" alt="image" src="https://github.com/user-attachments/assets/f16db1b3-67ad-4a0c-8351-05bffd1c259f" />
 
 **Total time spent: 2.1 hours**
+
+# October 17: toolhead one done, actually this time
+
+Short today but spent an hour modeling the little fan holder for the hotend and a bit of time making a new part studio the modified components of the second toolhead. The thinking is that because the second toolhead's belt is closer to the carriage, that one will be the lighter one, hence why I removed the eddy probe. 
+
+<img width="3160" height="1902" alt="image" src="https://github.com/user-attachments/assets/fd43469c-8b3c-459b-a15c-d9a8afca94a6" />
+
+**Total time spent: 1.1 hours**
+
