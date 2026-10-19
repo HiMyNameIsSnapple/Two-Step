@@ -162,3 +162,11 @@ Short today but spent an hour modeling the little fan holder for the hotend and 
 
 **Total time spent: 1.1 hours**
 
+# October 18: started toolhead two
+
+Finished making a second part studio for toolhead two as well as putting it into the assembly, which took a while because Onshape was slow, shortened the belt holds on the first toolhead. NO clue why they were that long in the first place. Keeping the toolheads narrow is a priority here since its an IDEX design and I really dont want to make the X axis any longer than it needs to be. Struggled with the second belt tensioner, still figuring out how I'm going to appraoch taht since my space is fairly limited. Might just settle for making it like the last one at the cost of it making the toolhead fairly wide. 
+
+<img width="3326" height="1842" alt="image" src="https://github.com/user-attachments/assets/53ba330e-9180-497b-9384-11004d520415" />
+
+**Total time spent: 2.5 hours**
+
