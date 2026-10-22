@@ -170,3 +170,12 @@ Finished making a second part studio for toolhead two as well as putting it into
 
 **Total time spent: 2.5 hours**
 
+# October 21: I have an idea!!
+
+Settled on making the second tensioner a one sided one, HOPEFULLY that isn't consequential as I did see the LHstinger cad use it, so I should be fine? Otherwise, most of time was spent trying to figure out how to fit this tensioner. Now I know what I'm doing and all thats left is the nut on the other side to complete the tensioner and then some refinements like fillets/chamfers. Also should probably make a copy of this for other people to review before moving on since this is a very involved stage. 
+
+<img width="2317" height="1877" alt="image" src="https://github.com/user-attachments/assets/97f24b23-76a2-4632-89fe-74e6987fd337" />
+
+**Total time spent: 2 hours**
+
+
