@@ -178,4 +178,10 @@ Settled on making the second tensioner a one sided one, HOPEFULLY that isn't con
 
 **Total time spent: 2 hours**
 
+# October 25: toolheadS DONE
 
+Finished up the tensioner and second toolhead part, shared to slack for someone else to review, and made a new assembly for the x axis, also spendign a bunch of time trying to find a bearing for the double shear setup I'll have going on. Might have it such that it's a two bearings and washers surrounding each pulley. 
+
+<img width="3018" height="1293" alt="image" src="https://github.com/user-attachments/assets/512ed64f-61a7-489b-9216-9dba38d7a47e" />
+
+**Total time spent: 1.5 hours**
